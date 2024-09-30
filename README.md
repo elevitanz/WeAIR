@@ -25,3 +25,5 @@ In the 'video' folder, there are trajectories of indicators as heatmaps evolving
 In the 'python' folder there are all the codes related to preprocessing and dataset synchronization, as well as all the scripts related to plots, heatmaps and videos.
 
 In the 'Models.zip' folder, there are all the daily predictive models in the keras.h5 format.
+
+The 'ScreenWeAirApp1.png' is a screenshot of the app layout.
